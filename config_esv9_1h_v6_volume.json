@@ -79,8 +79,8 @@
         "listen_port": 8080,
         "verbosity": "error",
         "enable_openapi": false,
-        "jwt_secret_key": "54880edf5c1e844999e1fa8ef5707f13187d605c0607766521be1a3b8ba818e7",
-        "ws_token": "SmDH7Wgcw963tQhn7Zw8-PsoYfD7wEL0SA",
+        "jwt_secret_key": "",
+        "ws_token": "",
         "CORS_origins": ["http://localhost:8081"],
         "username": "",
         "password": ""
