@@ -1,0 +1,35 @@
+{
+  "strategy_name": "esv9_1h_v6",
+  "params": {
+    "roi": {
+      "0": 0.29700000000000004,
+      "205": 0.198,
+      "310": 0.07,
+      "934": 0
+    },
+    "max_open_trades": {
+      "max_open_trades": 3
+    },
+    "buy": {
+      "buy_ema": 3,
+      "buy_ema_slope": 0.624,
+      "buy_rsi_high": 84,
+      "buy_rsi_low": 30
+    },
+    "sell": {
+      "sell_ema": 5
+    },
+    "protection": {},
+    "stoploss": {
+      "stoploss": -0.231
+    },
+    "trailing": {
+      "trailing_stop": true,
+      "trailing_stop_positive": 0.013,
+      "trailing_stop_positive_offset": 0.053,
+      "trailing_only_offset_is_reached": true
+    }
+  },
+  "ft_stratparam_v": 1,
+  "export_time": "2025-04-18 23:50:10.423639+00:00"
+}
